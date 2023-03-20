@@ -2,7 +2,7 @@
 
 div
 {
-max-width: 1800px;
+max-width: 4000px;
 width: 100%;
 text-align: center;
 }
@@ -10,6 +10,8 @@ text-align: center;
 .topnav {
     background-color: wheat;
     overflow: hidden;
+    max-width: 4000px;
+    width: 100%;
   }
   
   /* Style the links inside the navigation bar */
@@ -30,13 +32,15 @@ text-align: center;
   
  
 
-h1
+.Header
 {
-max-width: 1800px;
+max-width: 4000px;
 width: 100%;
 text-align: center;
-background-color: lavender;
-color: lightgreen;
+background-color: thistle;
+color: rgb(53, 107, 53);
+height: 100%;
+max-height: 900px;
 }
 
 body
@@ -62,9 +66,5 @@ a:hover {
 a:active {
   color: lightblue;
 } 
-
-
-
-
 
 
