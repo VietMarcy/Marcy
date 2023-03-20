@@ -5,6 +5,7 @@ div
 max-width: 1800px;
 width: 100%;
 text-align: center;
+background-color: lavender;
 }
 
 .topnav {
@@ -14,7 +15,7 @@ text-align: center;
   
   /* Style the links inside the navigation bar */
   .topnav a {
-    float: left;
+    float: center;
     color: rgb(177, 109, 120);
     text-align: center;
     padding: 14px 16px;
@@ -39,36 +40,29 @@ text-align: center;
 
 body
 {
-  background-color: thistle;
+  background-color: white;
   color: rgb(39, 141, 39);
   font-family: 'Arimo', sans-serif;
 }
 
 a:visited
 {
- color:  rgb(177, 109, 120);
+ color:  black;
 }
 a:link {
-  color: rgb(177, 109, 120);
+  color: black;
 }
 
 
 a:hover {
-  color: rgb(39, 141, 39);
+  color: blue;
 }
 
 a:active {
-  color: hotpink;
+  color: lightblue;
 } 
 
 
-div3{
-  max-width: 900px;
-  width: 100%;
-  background-color: wheat;
-  padding: 20px;
-  align-content: center;
-}
 
 
 
